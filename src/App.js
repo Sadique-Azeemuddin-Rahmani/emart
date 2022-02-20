@@ -1,6 +1,6 @@
 import Navbar from "./components/Navbar";
 import { Switch, Route } from "react-router-dom";
-import Productlist from "./components/Productlist"
+import Productlist from "./pages/Productlist"
 import Login from "./pages/Login";
 import Cart from "./pages/Cart";
 import ProductDetail from "./pages/ProductDetail";
